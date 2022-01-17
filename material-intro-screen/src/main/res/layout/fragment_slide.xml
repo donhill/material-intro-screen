@@ -44,6 +44,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
         android:gravity="center"
+        android:padding="12dp"      
         android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
         app:layout_parallaxFactor="0.2"
         tools:text="Lorem ipsum dolor sit amet, consectetur, adipisci velit, …" />
